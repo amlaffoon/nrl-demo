@@ -1,0 +1,23 @@
+body {
+    background-image: linear-gradient(rgba(87, 80, 108, 0.001), rgba(31, 11, 85, 1));
+}
+
+.img-wrapper {
+    background-image: url(images/slide3.jpg);
+}
+
+.footer-content {
+    color: white !important;
+}
+
+.main-content {
+    margin: 1.5rem;
+}
+
+.hero-body {
+    background-color: white;
+}
+
+#hero-image {
+    width: 23%;
+}
